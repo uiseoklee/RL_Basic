@@ -1,3 +1,3 @@
 # RL_Basic
-![dong1](https://user-images.githubusercontent.com/51503303/197749714-ef0d3bad-a0ad-4ff1-9c3d-f0f8c6c72209.jpg)
-![dong2](https://user-images.githubusercontent.com/51503303/197749793-4a577c90-85b3-454e-ac8c-432e7d5ca4fb.jpg)
+![algorithm21](https://user-images.githubusercontent.com/51503303/197752401-7c027802-9eb8-4ef1-84a7-04a2d1802c9d.jpg)
+![algorithm22](https://user-images.githubusercontent.com/51503303/197752550-fedde03b-0bae-4925-bffd-3e82ab6ce8cb.jpg)
