@@ -5,3 +5,4 @@
 ![algorithm35](https://user-images.githubusercontent.com/51503303/197754417-72a8e2a7-4589-40d3-b1e5-f4895d390792.jpg)
 ![algorithm36](https://user-images.githubusercontent.com/51503303/197754464-1d7759d0-f324-4c19-92b6-e3fc2ac0a998.jpg)
 ![algorithm37](https://user-images.githubusercontent.com/51503303/197754515-c7aaac4f-4795-45e3-b280-b5f725057c9f.jpg)
+출처: 기초부터 시작하는 강화학습/신경망 알고리즘, 2019, 손민규저
